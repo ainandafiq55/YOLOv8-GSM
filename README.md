@@ -5,14 +5,14 @@ Install ultralytics library.
 ```
 pip install ultralytics
 ```
-(Optional) Install paddle ocr if you want to use the realtime nameplate recognition system. Please follow paddleOCR quick start guidelines to install it https://github.com/PaddlePaddle/PaddleOCR
+(Optional) Install paddle ocr if you want to use the realtime nameplate recognition system.\ Please follow paddleOCR quick start guidelines to install it https://github.com/PaddlePaddle/PaddleOCR \
 Navigate to your ultralytics library directory that you installed previously, replace it with this ultralytics directory
 # Download Dataset
-Navigate to https://universe.roboflow.com/ub-sotcz/campus_plate/dataset/2
-Download the dataset by clicking "Download Dataset" button.
-Choose the YOLOv8 format
-Select the zip format as download options. You may choose to show download code if you prefer so.
-Inside the dataset folder, there will be data.yaml file, please note about this.
+Navigate to https://universe.roboflow.com/ub-sotcz/campus_plate/dataset/2 \
+Download the dataset by clicking "Download Dataset" button. \
+Choose the YOLOv8 format. \
+Select the zip format as download options (You may choose to show download code if you prefer so). \
+Inside this dataset folder, there will be `data.yaml` file, please note about this. \
 # Training YOLO-GSM
 For training, you can use this command in the command prompt.
 ```
