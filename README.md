@@ -5,8 +5,8 @@ Install ultralytics library.
 ```
 pip install ultralytics
 ```
+Navigate to your ultralytics library directory that you installed previously, replace it with this ultralytics directory.
 (Optional) Install paddle ocr if you want to use the realtime nameplate recognition system.\ Please follow paddleOCR quick start guidelines to install it https://github.com/PaddlePaddle/PaddleOCR \
-Navigate to your ultralytics library directory that you installed previously, replace it with this ultralytics directory
 # Download Dataset
 Navigate to https://universe.roboflow.com/ub-sotcz/campus_plate/dataset/2 \
 Download the dataset by clicking "Download Dataset" button. \
